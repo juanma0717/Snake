@@ -12,7 +12,7 @@ screen.bgcolor("black")
 screen.title("My Snake Game")
 screen.tracer(0)
 
-# Se usan variables para llamar la clases y 
+# Se usan variables para llamar la clases y sus metodos
 snake = Snake()
 food = Food()
 scoreboard = Scoreboard()
